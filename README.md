@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
 I keep an open mind to learn new things. <br>
-📫 contact me : rladmswls@naver.com
+📫 contact me : rladmswls204@naver.com
 </p><br>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌟 About Me </h2>  
