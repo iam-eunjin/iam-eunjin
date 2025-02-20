@@ -36,6 +36,7 @@ I keep an open mind to learn new things. <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Certificates </h2><br/>
     <p>✔️ Certified Kubernetes Administrator (2022.09)</p>
     <p>✔️ AWS Certified DevOps Engineer - Professional (2023.12)</p>
+    <p>✔️ Certified Kubernetes Application Developer (2025.02)</p>
 </div>
 <br/>
 <div>
