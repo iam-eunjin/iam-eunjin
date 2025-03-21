@@ -50,7 +50,7 @@ I keep an open mind to learn new things. <br>
   	<img src="https://img.shields.io/badge/Linux-262577?style=flat-square&logo=linux&logoColor=white">
   	<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
     </div><br/>
-    <p>✔️ 공공 빅데이터 청년 인턴십 확대 운영 인턴십 - 새올 민원 및 CCTV 설치 최적지 분석 (2020.10 ~ 2020.12) </p>
+    <p>✔️ 공공 빅데이터 청년 인턴십 확대 운영 - 새올 민원 및 CCTV 설치 최적지 분석 (2020.10 ~ 2020.12) </p>
     <div>
 	&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
   	<img src="https://img.shields.io/badge/Python-00AAFF?style=flat-square&logo=python&logoColor=white">
