@@ -71,8 +71,8 @@ I keep an open mind to learn new things. <br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🗒️ Blog</h2><br/> 
     <div>
-	<a href=https://velog.io/@iam-eunjin/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@iam-eunjin/posts"> </a>
 	<a href=https://viviisfree.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://viviisfree.tistory.com/"> </a>
+	<a href=https://velog.io/@iam-eunjin/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@iam-eunjin/posts"> </a>
 	<a href=https://www.notion.so/eun-jin/AWS-Cloud-Engineer-db7fb283561d43ac955e0e7df6387fd1> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/eun-jin/AWS-Cloud-Engineer-db7fb283561d43ac955e0e7df6387fd1"> </a>
     </div><br/> 
 </div>
