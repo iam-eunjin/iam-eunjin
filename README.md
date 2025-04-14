@@ -8,20 +8,20 @@ I keep an open mind to learn new things. <br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌟 About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
 	<span>🚀 I'm interested in Kubernetes and Terraform.</span><br/>
-	<span>🌱 I'm currently learning Typescript and React.</span>
+	<span>🌱 I'm currently learning React.</span>
     </div> 
 </div>
 <br/>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br/>
     <div align= "center">
+	<img src="https://img.shields.io/badge/amazoneks-FF9900?style=flat-square&logo=amazoneks&logoColor=white">
+	<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
+        <img src="https://img.shields.io/badge/Linux-262577?style=flat-square&logo=linux&logoColor=white"><br/>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
         <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
-        <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"><br/>
-        <img src="https://img.shields.io/badge/amazoneks-FF9900?style=flat-square&logo=amazoneks&logoColor=white">
-	<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-262577?style=flat-square&logo=linux&logoColor=white">
+        <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white">
     </div>
     <br/>
     <div align= "center">
